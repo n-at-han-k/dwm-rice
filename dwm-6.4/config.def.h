@@ -32,6 +32,7 @@ static const Rule rules[] = {
 	{ "Gimp",     NULL,       NULL,       0,            1,           -1 },
 	{ "Firefox",  NULL,       NULL,       1 << 8,       0,           -1 },
     { "ROX-Filer", NULL,      NULL,       0,            1,           -1 },
+    { "Blueman-manager.bin", NULL,      NULL,       0,            1,           -1 },
 };
 
 /* layout(s) */
